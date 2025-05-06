@@ -19,8 +19,8 @@ A real-time chat application built with React, Tailwind CSS, and Socket.io.
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/zackariae/realtime_chat.git
-   cd realtime_chat
+   git clone https://github.com/007Dharmjit/Chat_App.git
+   cd Chat_App
    ```
 
 2. **Install dependencies**
@@ -54,4 +54,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 📬 Contact
 
-For any questions or suggestions, reach out via [GitHub Issues](https://github.com/zackariae/realtime_chat/issues).
+For any questions or suggestions, reach out via [GitHub Issues](https://github.com/007Dharmjit/Chat_App/issues).
